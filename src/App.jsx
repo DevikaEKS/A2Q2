@@ -35,7 +35,7 @@ function App() {
               placeholder="Enter a skill"
               className="skill-input"
             />
-            <button className="confirm-add-btn" onClick={addSkill}>Add</button>
+            <button className="confirm-add-btn" onClick={addSkill}>Add Skill</button>
           </div>
         )}
       </div>
